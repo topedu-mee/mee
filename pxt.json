@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "mee": "workspace:d83ef51d-4f2e-4f5e-c8b1-5174776c1ecd"
     },
     "files": [
         "README.md",
@@ -14,5 +15,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "installedVersion": "workspace:d83ef51d-4f2e-4f5e-c8b1-5174776c1ecd"
 }
